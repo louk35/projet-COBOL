@@ -1,0 +1,14 @@
+Bonjour !
+Vous voici dans un logiciel permettant la gestion de  participation des membres aux activités que propose une association, en COBOL.
+Ce logiciel propose à des membres des activités de loisirs de plusieurs types auxquelles ils peuvent participer.
+
+Pour utiliser ce logiciel, il faut suivre la procédure suivante :
+Se placer dans le même répertoire que le fichier projet.cob
+puis taper la commande cobc -x -free projet.cob .
+A la suite de cette commande un fichier projet est généré c'est l'exécutable.
+
+Pour lancer l'application il suffit de taper : ./projet .
+
+Ensuite, à vous d'utiliser le menu de l'application pour faire ce que vous avez envie de faire sur notre logiciel.
+
+Bonne utilisation !
